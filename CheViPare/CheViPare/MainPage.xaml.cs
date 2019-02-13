@@ -12,6 +12,7 @@ namespace CheViPare
         public MainPage()
         {
             InitializeComponent();
+            // Aggiungo un commento
         }
     }
 }
